@@ -1,3 +1,9 @@
+This is a backup of the last commit of Jam Icons.
+
+Original repository has been deleted by icon set author.
+
+## Intro
+
 <p align="center">
   <img src="https://jam-icons.com/logo.svg">
 </p>
